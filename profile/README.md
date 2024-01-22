@@ -1,14 +1,3 @@
-## Hi there 👋
+# ${\color{rgb(0,233,227)}{\textsf{Welcome to Onalabs' Organization}}}\$ 🙌
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-Work in progress...
+![onalabs_banner](https://github.com/OnalabsInnoHub/.github-private/assets/83247762/afa40e5c-5c36-4920-bf42-27c5512dee9a)
